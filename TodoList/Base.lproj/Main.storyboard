@@ -96,7 +96,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="8RN-qm-fOr"/>
                     <connections>
-                        <outlet property="DarkSwitch" destination="FaI-D8-5dE" id="BJ4-8V-QRN"/>
+                        <outlet property="DarkSwitch" destination="FaI-D8-5dE" id="kAc-8T-xzw"/>
                         <outlet property="LightSwitch" destination="P7d-cS-rFR" id="4T8-Sg-kih"/>
                     </connections>
                 </viewController>
